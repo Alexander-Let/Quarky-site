@@ -491,22 +491,6 @@ export default function ContactSection() {
                 fontSize: "0.8rem",
               }}
             >
-              <a
-                href="#"
-                style={{ color: "var(--text-secondary)", transition: "color 0.3s" }}
-                onMouseEnter={(e) => (e.currentTarget.style.color = "var(--text-primary)")}
-                onMouseLeave={(e) => (e.currentTarget.style.color = "var(--text-secondary)")}
-              >
-                Политика конфиденциальности
-              </a>
-              <a
-                href="#"
-                style={{ color: "var(--text-secondary)", transition: "color 0.3s" }}
-                onMouseEnter={(e) => (e.currentTarget.style.color = "var(--text-primary)")}
-                onMouseLeave={(e) => (e.currentTarget.style.color = "var(--text-secondary)")}
-              >
-                Условия использования
-              </a>
             </div>
           </div>
 

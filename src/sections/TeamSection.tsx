@@ -16,19 +16,19 @@ const teamMembers = [
     name: "Александр Летута",
     role: "CEO & Founder",
     badge: "AI Strategy",
-    image: "/team-1.jpg",
+    image: "team-1.jpg",
   },
   {
     name: "Максим Корсаков",
     role: "Lead DE & DS",
     badge: "Data Architecture",
-    image: "/team-2.jpg",
+    image: "team-2.jpg",
   },
   {
     name: "Булат Мамбетов",
     role: "Lead ML Engineer",
     badge: "NLP Research",
-    image: "/team-3.jpg",
+    image: "team-3.jpg",
   },
 ];
 
