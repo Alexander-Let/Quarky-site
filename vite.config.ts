@@ -5,7 +5,7 @@ import { inspectAttr } from 'kimi-plugin-inspect-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://github.com/Alexander-Let/Quarky-site.git',
+  base: '/Quarky-site/',
   plugins: [inspectAttr(), react()],
   server: {
     port: 3000,
